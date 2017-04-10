@@ -1,3 +1,3 @@
 class role::docker { 
-inclde ::docker
+include ::docker
 } 
